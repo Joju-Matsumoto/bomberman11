@@ -8,12 +8,15 @@
 git clone https://github.com/Joju-Matsumoto/bomberman11.git
 cd bomberman11
 ```
-1. (仮想環境で)ライブラリインストール
+2. (仮想環境で)ライブラリインストール
 ```
 pip install -r requirements.txt
 ```
 
-1. 実行
+3. 実行 (音量注意．bgmが流れます)
 ```
-python bomberman
+python bomberman_game11.py
 ```
+
+## 使い方
+- 基本操作
